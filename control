@@ -1,0 +1,10 @@
+Package: com.doux.libfmdb
+Name: libfmdb
+Version: 1.0
+Architecture: iphoneos-arm64
+Recommends: com.kunihir0.doux
+Description: An awesome library of some sort!!
+Maintainer: kunihir0
+Author: kunihir0
+Section: System
+Tag: role::developer
